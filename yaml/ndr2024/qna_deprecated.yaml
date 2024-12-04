@@ -1,0 +1,93 @@
+version: 3
+created_by: "JYeoMJ"
+domain: "government_policy"
+
+seed_examples:
+  - context: |
+      The SkillsFuture Level-Up Program provides a $4,000 SkillsFuture Credit top-up for Singaporeans aged 40 and above. It includes a training allowance of up to $3,000 per month for 24 months, totaling $72,000. A new SkillsFuture Jobseeker Support scheme offers temporary financial support of up to $6,000 over 6 months, requiring participation in training, career coaching, and job-matching services.
+    questions_and_answers:
+      - question: |
+          What is the maximum total training allowance available under the SkillsFuture Level-Up Program?
+        answer: |
+          Under the SkillsFuture Level-Up Program, eligible Singaporeans can receive a training allowance of up to $3,000 per month for 24 months, totaling $72,000.
+      - question: |
+          What are the requirements to receive support under the SkillsFuture Jobseeker Support scheme?
+        answer: |
+          To receive support under the SkillsFuture Jobseeker Support scheme, participants must engage in training, career coaching, and job-matching services. The scheme provides up to $6,000 over 6 months.
+      - question: |
+          What is the SkillsFuture Credit top-up amount for Singaporeans aged 40 and above?
+        answer: |
+          Singaporeans aged 40 and above receive a SkillsFuture Credit top-up of $4,000.
+
+  - context: |
+      New family-friendly policies include changes to preschool fees and parental leave. Government-supported preschools will target fees of $300/month for dual-income families, with lower-income families paying as low as $3/month. Paternity leave becomes mandatory at 4 weeks from April 2024. A new Shared Parental Leave provides 10 additional weeks shared between parents, with 6 weeks available from April 2025 and the full 10 weeks by April 2026.
+    questions_and_answers:
+      - question: |
+          What are the target preschool fees for dual-income families at government-supported preschools?
+        answer: |
+          The target fee is $300 per month for dual-income families at government-supported preschools.
+      - question: |
+          How will the new Shared Parental Leave be implemented?
+        answer: |
+          The new Shared Parental Leave will provide 10 additional weeks shared between parents, implemented in two phases: 6 weeks available from April 2025, and the full 10 weeks by April 2026.
+      - question: |
+          What changes are being made to paternity leave in Singapore?
+        answer: |
+          Paternity leave will become mandatory at 4 weeks starting from April 2024.
+
+  - context: |
+      Housing initiatives include plans to deliver 100,000 new BTO flats between 2021 and 2025, with 80,000 units expected by December 2024. A new BTO classification system introduces Standard, Plus, and Prime flats. The Enhanced CPF Housing Grant will be increased for lower-income groups. An example of the new system is the Bayshore Vista Plus flat, offering 4-room units at $580,000.
+    questions_and_answers:
+      - question: |
+          How many BTO flats is HDB planning to deliver between 2021 and 2025?
+        answer: |
+          HDB plans to deliver 100,000 new BTO flats between 2021 and 2025, with 80,000 units expected to be completed by December 2024.
+      - question: |
+          What are the three categories in the new BTO classification system?
+        answer: |
+          The new BTO classification system categorizes flats into three types: Standard, Plus, and Prime.
+      - question: |
+          What is the price of a 4-room Plus flat at Bayshore Vista?
+        answer: |
+          A 4-room Plus flat at Bayshore Vista is priced at $580,000.
+
+  - context: |
+      Education reforms include discontinuing the Primary School Gifted Education Programme in its current form, replacing it with school-based programs for high-ability learners and after-school enrichment modules. The new University of the Arts Singapore will offer government-subsidized degree programs. The ITE Progression Award provides a $5,000 PSEA top-up upon diploma enrollment and a $10,000 CPF top-up upon completion.
+    questions_and_answers:
+      - question: |
+          What changes are being made to the Gifted Education Programme in primary schools?
+        answer: |
+          The Primary School Gifted Education Programme will be discontinued in its current form and replaced with school-based programs for high-ability learners, including after-school enrichment modules for further stretch in specific subjects.
+      - question: |
+          What financial benefits does the ITE Progression Award provide?
+        answer: |
+          The ITE Progression Award provides two benefits: a $5,000 Post-Secondary Education Account (PSEA) top-up upon diploma enrollment, and a $10,000 CPF top-up upon diploma completion.
+      - question: |
+          What support is being provided for the new University of the Arts Singapore?
+        answer: |
+          The new University of the Arts Singapore will receive government support through subsidized degree programs for local students.
+
+  - context: |
+      The Kallang Alive Masterplan includes a new 18,000-capacity indoor arena and centralized Team Singapore training facilities. The Sports School will relocate from Woodlands to Kallang. Waterfront developments include the NS Square, Founders' Memorial, and new residential precincts at Nicoll, Kampong Bugis, Tanjong Rhu, Marina South, and Marina East.
+    questions_and_answers:
+      - question: |
+          What is the capacity of the new indoor arena planned under the Kallang Alive Masterplan?
+        answer: |
+          The new indoor arena planned under the Kallang Alive Masterplan will have a capacity of 18,000.
+      - question: |
+          Which school is being relocated to Kallang as part of the Kallang Alive Masterplan?
+        answer: |
+          The Sports School will be relocated from Woodlands to Kallang.
+      - question: |
+          Name three new residential precincts planned in the waterfront development.
+        answer: |
+          Three of the new residential precincts planned are Nicoll, Kampong Bugis, and Tanjong Rhu.
+
+document_outline: |
+  This document contains key policy announcements and initiatives from Singapore's National Day Rally 2024, covering major areas including economy, families, housing, education, and infrastructure development.
+
+document:
+  repo: "https://github.com/JYeoMJ/IBM-Redhat-InstructLab/tree/main/knowledge/ndr2024-knowledge"
+  commit: "0d53148aa459e42a49239a870f0589747fa5f98e"
+  patterns:
+    - NDR_2024.md
