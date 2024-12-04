@@ -87,7 +87,7 @@ document_outline: |
   This document contains key policy announcements and initiatives from Singapore's National Day Rally 2024, covering major areas including economy, families, housing, education, and infrastructure development.
 
 document:
-  repo: "https://github.com/singapore/ndr2024-knowledge"
-  commit: "abc123def456"
+  repo: "https://github.com/JYeoMJ/IBM-Redhat-InstructLab/tree/main/knowledge/ndr2024-knowledge"
+  commit: "0d53148aa459e42a49239a870f0589747fa5f98e"
   patterns:
     - NDR_2024.md
