@@ -1,73 +1,73 @@
 version: 2
-task_description: "Convert policy information into clear, concise summaries with bullet points and a brief explanation"
+task_description: "Transform policy information into concise, engaging Hackernoon-style articles with tech metaphors, bullet-point TL;DRs, and clear explanations"
 created_by: "JYeoMJ"
 seed_examples:
   - context: |
       The SkillsFuture Level-Up Program provides a $4,000 SkillsFuture Credit top-up for Singaporeans aged 40 and above, with training allowance up to $3,000 monthly for 24 months.
     question: |
-      Summarize this policy in a clear, engaging way.
+      Explain this policy in Hackernoon style.
     answer: |
-      SkillsFuture Level-Up Program: Quick Guide
+      [Level-Up Alert] Singapore's Ultimate Reskilling API Just Dropped
 
-      Key Benefits:
-      • $4,000 SkillsFuture Credit top-up
-      • $3,000 monthly training allowance
-      • 24-month duration
+      TL;DR:
+      • $4K bonus credits - upgrade your skill tree now!
+      • $3K/month stipend - side hustle while you skill up.
+      • 24-month subscription - full access to learning loot.
 
-      This program helps Singaporeans aged 40 and above upgrade their skills with significant financial support. The total potential benefit is up to $76,000 over two years.
+      Imagine this: Singapore has just launched the ultimate patch for workers aged 40+. If you're in the game, it's like receiving an unlimited pro membership for 2 years, plus a monthly bonus to cover your grind. With a potential payout of up to $76K, this isn't just a skill upgrade - it's a career reboot.
 
   - context: |
       Paternity leave becomes mandatory at 4 weeks for eligible fathers from April 2024. The Shared Parental Leave Scheme will provide 10 weeks of shared leave - six weeks from April 2025, expanding to 10 weeks by April 2026.
     question: |
-      Break down this policy clearly.
+      Break this down in Hackernoon format.
     answer: |
-      New Parental Leave Updates
+      [Breaking News] Singapore Ships Major Parent-Mode Update
 
-      Timeline:
-      • April 2024: 4 weeks mandatory paternity leave
-      • April 2025: 6 weeks shared parental leave
-      • April 2026: 10 weeks shared parental leave
+      TL;DR:
+      • 4-week Dad Mode unlock - April 2024
+      • 6-week Co-op Mode beta - April 2025
+      • 10-week Full Release - April 2026
 
-      These changes make paternity leave mandatory and introduce a new shared leave system that expands over two years.
-
-  - context: |
-      At government-supported centers, preschool fees will be $300 per month for dual-income families and as low as $3 per month for lower-income families.
-    question: |
-      Summarize the preschool fee changes.
-    answer: |
-      Preschool Fee Structure Update
-
-      Monthly Fees:
-      • Dual-income families: $300
-      • Lower-income families: $3
-      • Applies to government-supported centers
-
-      This new fee structure makes preschool education significantly more affordable, with special support for lower-income families.
+      Singapore's pushing the biggest parenting update yet. The patch makes Dad Mode a core feature, not just optional DLC. With the new Co-op system rolling out in phases, parents can tag-team their way through early-game challenges. Get ready to git commit to family time - this one's going live soon.
 
   - context: |
       The BTO classification system introduces Standard, Plus, and Prime categories. Standard flats are widely available, Plus flats offer additional subsidies for choice locations, and Prime flats provide highest subsidies for premium locations with stricter resale conditions.
     question: |
-      Explain the new BTO system simply.
+      Explain the BTO system in Hackernoon style.
     answer: |
-      New BTO Classification System
+      [System Update] Singapore's Housing System Gets a Framework Upgrade
 
-      Three Categories:
-      • Standard: Basic flats, widely available
-      • Plus: Better locations, extra subsidies
-      • Prime: Premium locations, highest subsidies
+      TL;DR:
+      • Standard tier - base model, widely distributed
+      • Plus tier - premium locations, extra perks
+      • Prime tier - max benefits, special terms
 
-      This new system categorizes BTO flats based on location and benefits, with different subsidy levels and conditions for each category.
+      Singapore just deployed v2.0 of its housing framework with a sweet three-tier architecture. Think of it as freemium gone pro: Standard for your basic build, Plus for the power users, and Prime for those ready to commit to premium features. Each tier comes with its own API of benefits, but remember - higher tiers have stricter runtime conditions.
 
   - context: |
       The Kallang Alive Masterplan includes the construction of a new 18,000-capacity indoor arena, centralized training facilities for Team Singapore athletes, and the relocation of the Singapore Sports School to Kallang.
     question: |
-      Outline the Kallang development plans.
+      Present this infrastructure project in Hackernoon style.
     answer: |
-      Kallang Alive Masterplan Overview
+      [Infrastructure] Singapore's Sports Infrastructure Gets a Massive System Upgrade
 
-      Key Developments:
-      • New indoor arena (18,000 capacity)
-      • Centralized athlete training facilities
-      • Singapore Sports School relocation
+      TL;DR:
+      • 18K-capacity arena - new multiplayer hub
+      • Centralized training cluster - optimized athlete pipeline
+      • Sports School migration - integrated learning environment
 
-      This comprehensive development will transform Kallang into Singapore's premier sports hub, bringing together venues, training facilities, and sports education.
+      Kallang is getting the mother of all patches with this infrastructure stack. Picture this: a massive arena that can host 18K concurrent users, a high-performance training environment for Team SG's pro players, and a dedicated sports academy all in one deployment. This isn't just an upgrade - it's a complete sports ecosystem rewrite.
+
+  - context: |
+      At government-supported centers, preschool fees will be $300 per month for dual-income families and as low as $3 per month for lower-income families.
+    question: |
+      Present this preschool policy in Hackernoon style.
+    answer: |
+      [Education Update] Preschool Access: Singapore Scales Down the Paywall
+
+      TL;DR:
+      • Standard rate: $300/month subscription
+      • Low-income rate: $3/month (99% discount)
+      • Available across all gov.sg nodes
+
+      Singapore just rolled out its most aggressive education pricing model yet. Using dynamic cost scaling, they've basically turned premium early education into a public utility. The new algorithm adjusts fees based on family income parameters, making the early learning sandbox accessible to every tiny dev in the pipeline.
