@@ -1,0 +1,133 @@
+version: 3
+created_by: "JYeoMJ"
+domain: "government_policy"
+
+seed_examples:
+  - context: |
+      Prime Minister Lee Hsien Loong delivered his National Day Rally speech on August 20, 2023, at the Institute of Technical Education (ITE) Headquarters in Ang Mo Kio under the theme "A Better Home, A Brighter Future." PM Lee began by celebrating Singapore's resilience in overcoming COVID-19, the most significant challenge since Independence, emerging stronger and more united. However, new challenges loom with international tensions and economic uncertainties. The US-China rivalry affects countries worldwide, requiring careful navigation. The Ukraine war remains a human tragedy and assault on global norms, highlighting the importance of a strong SAF. Economic challenges persist as globalization weakens, supply chains fragment, and protectionist measures rise. Climate change brings more extreme weather, threatening food production and prices globally.
+    questions_and_answers:
+      - question: |
+          How did PM Lee characterize the different global challenges facing Singapore in 2023?
+        answer: |
+          PM Lee outlined multiple challenges: geopolitical tensions from US-China rivalry, security concerns from the Ukraine war, economic pressures from weakening globalization and fragmented supply chains, rising protectionism, and climate change impacts on food security and prices.
+      - question: |
+          What specific economic disruptions did PM Lee highlight as concerns for Singapore?
+        answer: |
+          PM Lee highlighted three main economic disruptions: the weakening of globalization, the fragmentation of supply chains, and the rise of protectionist measures, which particularly affect small, open trading nations like Singapore.
+      - question: |
+          How did PM Lee connect the Ukraine war to Singapore's defense needs?
+        answer: |
+          PM Lee described the Ukraine war as both a human tragedy and an assault on international norms, using it to emphasize the vital importance of maintaining a strong Singapore Armed Forces (SAF) to safeguard Singapore's sovereignty.
+      - question: |
+          What lessons did PM Lee draw from Singapore's COVID-19 experience?
+        answer: |
+          PM Lee highlighted how Singapore emerged from COVID-19, the most significant challenge since Independence, demonstrating national resilience by becoming stronger, more resilient, and more united than before.
+      - question: |
+          What climate-related challenges did PM Lee identify as future concerns?
+        answer: |
+          PM Lee identified increasing extreme weather events as a major climate-related challenge, specifically highlighting their threats to global food production and prices, though noting Singapore had not yet fully felt these impacts.
+
+  - context: |
+      Despite global challenges, Singapore expects positive economic growth and easing inflation, though still above pre-pandemic levels. The Forward Singapore initiative, led by DPM Lawrence Wong and the 4G team, aims to refresh the social compact through extensive consultations focusing on equipping people with skills to succeed, improving care for the vulnerable, and strengthening solidarity. The Majulah Package, a $7 billion initiative, targets "Young Seniors" aged 50 and above, offering three components: an Earn and Save Bonus providing up to $1,000 annual CPF contributions for lower- and middle-income workers as long as they continue working, a one-time Retirement Savings Bonus up to $1,500 for those with lower CPF balances including homemakers, and a MediSave Bonus up to $1,000. This package will benefit approximately 1.4 million Singaporeans across generations.
+    questions_and_answers:
+      - question: |
+          What are the specific eligibility criteria and benefits of the Earn and Save Bonus?
+        answer: |
+          The Earn and Save Bonus is available to lower- and middle-income workers aged 50 and above, providing up to $1,000 in annual CPF contributions for as long as they continue working, whether full-time or part-time.
+      - question: |
+          How does the Majulah Package support non-working individuals and homemakers?
+        answer: |
+          Non-working individuals and homemakers can receive the one-time Retirement Savings Bonus of up to $1,500 if they have lower CPF balances, recognizing their contributions despite not being in the formal workforce.
+      - question: |
+          What is the total value and coverage of the Majulah Package, and how is it funded?
+        answer: |
+          The Majulah Package is a $7 billion initiative benefiting approximately 1.4 million Singaporeans across generations, funded through resources from the current term of Government without burdening future generations.
+      - question: |
+          What specific focus areas did the Forward Singapore initiative identify through its consultations?
+        answer: |
+          Forward Singapore identified three key focus areas through consultations: equipping people with skills to succeed, improving care for vulnerable groups, and strengthening solidarity as one people.
+      - question: |
+          How is the MediSave Bonus structured within the Majulah Package?
+        answer: |
+          The MediSave Bonus is a one-time payment of up to $1,000, designed to provide an extra buffer for medical expenses and insurance premiums, particularly for those approaching their senior years.
+
+  - context: |
+      Singapore faces rapid population aging, with one in five Singaporeans currently aged 65 or above, projected to reach one in four by 2030. The number of centenarians is expected to double from about 1,500 currently to 2,000 by 2030. To support this demographic shift, the government launched Healthier SG and expanded Active Ageing Centres (AACs). PM Lee visited Bedok Radiance AAC, which offers diverse programs from exercise classes to communal meals and volunteer initiatives. Seniors actively organize activities, including meal deliveries to frail seniors in rental flats. The centers introduce male-focused activities and café corners to attract more male participants. AACs serve as vital community spaces combating loneliness and fostering purpose among seniors.
+    questions_and_answers:
+      - question: |
+          What specific demographic changes in Singapore's aging population did PM Lee highlight?
+        answer: |
+          PM Lee highlighted that one in five Singaporeans is currently aged 65 or above, projected to increase to one in four by 2030, with centenarians expected to double from 1,500 to 2,000 by 2030.
+      - question: |
+          What specific programs and activities are offered at Active Ageing Centres like Bedok Radiance?
+        answer: |
+          Bedok Radiance AAC offers exercise classes, communal meals, volunteer initiatives like meal deliveries to rental flats, and recently introduced male-focused activities and café corners to attract more male participants.
+      - question: |
+          How do Active Ageing Centres encourage senior volunteerism and community involvement?
+        answer: |
+          AACs encourage seniors to organize and run activities themselves, such as preparing and delivering meals to frail seniors in rental flats, building neighborly bonds while keeping active.
+      - question: |
+          What strategies are being implemented to attract male seniors to AACs?
+        answer: |
+          AACs are introducing specific activities that interest men, such as jamming sessions and café corners where "uncles" can socialize over coffee, making the centers more appealing to male seniors.
+      - question: |
+          How does Healthier SG complement the Active Ageing Centres program?
+        answer: |
+          Healthier SG works alongside AACs by providing personalized health plans, including screenings, vaccinations, and social prescriptions for active lifestyles, encouraging seniors to take responsibility for their health.
+
+  - context: |
+      Housing policy reforms introduce a new classification framework replacing Mature/Non-Mature Estate categories with Standard, Plus, and Prime types. Standard flats maintain usual subsidies and conditions. Plus flats in choice locations receive additional subsidies but require a 10-year Minimum Occupation Period, subsidy recovery upon resale, and have income ceilings for resale buyers. Prime flats in central locations have the highest subsidies and strictest restrictions. Singles gain expanded access to 2-room Flexi flats across all project types. The government commits to delivering 100,000 new flats between 2021-2025, with 50,000 already launched since 2021. The framework aims to balance affordability, social equity, and fairness in public housing, ensuring homes remain accessible while maintaining social mix across estates.
+    questions_and_answers:
+      - question: |
+          What are the specific restrictions and conditions for Plus category flats?
+        answer: |
+          Plus category flats come with three main restrictions: a 10-year Minimum Occupation Period, subsidy recovery upon resale (returning a percentage to HDB), and income ceilings for resale buyers to maintain social mix.
+      - question: |
+          How does the new framework address housing affordability across different locations?
+        answer: |
+          The framework provides differentiated subsidies based on location: standard subsidies for Standard flats, additional subsidies for Plus flats in choice locations, and highest subsidies for Prime flats in central locations, making each type affordable to different income groups.
+      - question: |
+          What specific progress has been made in the BTO flat supply commitment?
+        answer: |
+          Of the 100,000 flats committed for 2021-2025, 50,000 have already been launched since 2021, with the remaining 50,000 to be launched by 2025.
+      - question: |
+          What changes were announced for singles' housing options?
+        answer: |
+          Singles will gain expanded access to 2-room Flexi flats across all three new categories - Standard, Plus, and Prime - whereas previously they were restricted to only certain locations.
+      - question: |
+          How does the new classification system maintain social mix in housing estates?
+        answer: |
+          The system maintains social mix through income ceilings for resale buyers of Plus and Prime flats, differentiated subsidies based on income, and ensuring a range of flat types within each estate.
+
+  - context: |
+      PM Lee addressed leadership succession, confirming plans are back on track after pandemic delays. The 4G team, led by DPM Lawrence Wong, has taken significant initiatives including Forward Singapore and major policy reviews. PM Lee emphasized Singapore's founding values of justice, equality, religious freedom, racial harmony, meritocracy, and incorruptibility as crucial for maintaining a high-trust society. He highlighted the importance of clean government, recalling Mr Lee Kuan Yew's 90th birthday message about keeping Singapore clean and incorruptible. PM Lee pledged to maintain this standard regardless of political cost, stating these values have enabled strong people-government trust, evidenced during COVID-19. He concluded by expressing optimism about Singapore's future, calling for collective effort to build on the nation's unlikely success story.
+    questions_and_answers:
+      - question: |
+          What specific commitment did PM Lee make regarding government integrity?
+        answer: |
+          PM Lee pledged to maintain clean and incorruptible government regardless of political cost or embarrassment, referencing Mr Lee Kuan Yew's 90th birthday message about the crucial importance of maintaining Singapore's clean system.
+      - question: |
+          How did PM Lee connect founding values to Singapore's COVID-19 response?
+        answer: |
+          PM Lee explained that founding values created a high-trust society between people and government, which proved crucial in enabling Singapore to weather COVID-19 effectively and emerge more united.
+      - question: |
+          What evidence did PM Lee provide of the 4G team's readiness for leadership?
+        answer: |
+          PM Lee cited the 4G team's leadership of major initiatives like Forward Singapore and significant policy reviews, demonstrating their increasing role in setting the nation's direction.
+      - question: |
+          How did PM Lee characterize the relationship between leadership renewal and national values?
+        answer: |
+          PM Lee emphasized that each generation of leaders must uphold founding values of clean government, justice, equality, and racial harmony, serving as stewards to build a better Singapore for future generations.
+      - question: |
+          What historical perspective did PM Lee provide about Singapore's development?
+        answer: |
+          PM Lee described Singapore as an "unlikely nation" that has consistently beaten expectations, emphasizing that while the nation remains young and small, its success story continues through collective will and adherence to founding principles.
+
+document_outline: |
+  Comprehensive coverage of Singapore's National Day Rally 2023, including PM Lee's announcements on retirement support through the Majulah Package, housing policy reforms, preparations for an aging population, and leadership succession plans.
+
+document:
+  repo: "https://github.com/JYeoMJ/IBM-Redhat-InstructLab.git"
+  commit: ""
+  patterns:
+    - "knowledge/ndr2024-knowledge/NDR_2024.md"

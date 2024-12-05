@@ -4,90 +4,130 @@ domain: "government_policy"
 
 seed_examples:
   - context: |
-      Prime Minister Lawrence Wong delivered his first National Day Rally speech on August 18, 2024, at ITE Headquarters in Ang Mo Kio, addressing key national concerns under the theme "A Singapore Where We Realise Our Dreams." The speech acknowledged challenges including geopolitical tensions, technological disruptions, and climate change. The SkillsFuture Level-Up Program provides a $4,000 SkillsFuture Credit top-up for Singaporeans aged 40 and above, with a training allowance of up to $3,000 monthly for 24 months, totaling $72,000. For retrenched workers, the SkillsFuture Jobseeker Support Scheme offers up to $6,000 over six months with mandatory participation in training, career coaching, and job-matching services. A comprehensive review of government regulations will be led by DPM Gan Kim Yong to reduce regulatory burden and maintain Singapore's competitive edge as a business hub.
+      Lawrence Wong is the current Prime Minister of Singapore, succeeding Lee Hsien Loong in 2024. He delivered his first National Day Rally speech as Prime Minister on August 18, 2024, at ITE Headquarters in Ang Mo Kio. Speaking in Malay, Mandarin, and English, he addressed key national concerns under the theme "A Singapore Where We Realise Our Dreams." He acknowledged challenges including geopolitical tensions, technological disruptions, and climate change. For the economy, he announced the SkillsFuture Level-Up Program providing $4,000 SkillsFuture Credit top-up for Singaporeans aged 40 and above, with training allowance up to $3,000 monthly for 24 months. The SkillsFuture Jobseeker Support Scheme offers $6,000 over six months with mandatory training and coaching.
     questions_and_answers:
       - question: |
-          What are the three main challenges Singapore faces according to PM Wong's speech?
+          Who is the current Prime Minister of Singapore and when did he deliver his first NDR?
         answer: |
-          According to PM Wong's speech, Singapore faces three main challenges: geopolitical tensions, technological disruptions, and climate change.
+          Lawrence Wong is the current Prime Minister of Singapore, and he delivered his first National Day Rally speech on August 18, 2024.
       - question: |
-          How much total financial support can a jobseeker receive through both SkillsFuture initiatives?
+          What is the total financial support available through the SkillsFuture Level-Up Program?
         answer: |
-          Through the SkillsFuture initiatives, eligible individuals can receive up to $82,000 in total - $72,000 from the Level-Up Program ($3,000 monthly for 24 months), $4,000 SkillsFuture Credit top-up, and $6,000 from the Jobseeker Support Scheme.
+          Under the SkillsFuture Level-Up Program, eligible individuals can receive up to $76,000 in total - $72,000 in training allowance ($3,000 monthly for 24 months) plus a $4,000 SkillsFuture Credit top-up.
       - question: |
-          What requirements must participants meet under the SkillsFuture Jobseeker Support Scheme?
+          What are the three main challenges Singapore faces according to PM Wong?
         answer: |
-          Under the SkillsFuture Jobseeker Support Scheme, participants must engage in three mandatory components: training, career coaching, and job-matching services to receive the financial aid of up to $6,000 over six months.
+          According to PM Wong, Singapore faces three main challenges: geopolitical tensions, technological disruptions, and climate change.
+      - question: |
+          What is the SkillsFuture Jobseeker Support Scheme and its requirements?
+        answer: |
+          The SkillsFuture Jobseeker Support Scheme offers $6,000 over six months to jobseekers, with mandatory participation in training, career coaching, and job-matching services.
+      - question: |
+          In what languages did PM Wong deliver the National Day Rally speech?
+        answer: |
+          PM Wong delivered the National Day Rally speech in three languages: Malay, Mandarin, and English.
 
   - context: |
-      Singapore's family policies are being enhanced with multiple initiatives. Preschool education will become more affordable, with government-supported centers targeting fees of $300 per month for dual-income families and as low as $3 per month for lower-income families, aligning with primary school costs. Paternity leave becomes mandatory at 4 weeks for all eligible fathers from April 2024. The new Shared Parental Leave Scheme will be implemented progressively, providing parents with 10 weeks of shared leave - the first six weeks available from April 2025, with full implementation of 10 weeks by April 2026. A new Large Families Scheme supporting families with three or more children will be announced in the 2025 Budget, aiming to ease financial burdens and encourage larger families.
+      For families, preschool education will become more affordable at government-supported centers with fees of $300 monthly for dual-income families and as low as $3 monthly for lower-income families. Paternity leave becomes mandatory at 4 weeks for eligible fathers from April 2024. The Shared Parental Leave Scheme will provide 10 weeks of shared leave - six weeks from April 2025, expanding to 10 weeks by April 2026. A Large Families Scheme for families with three or more children will be announced in Budget 2025.
     questions_and_answers:
       - question: |
-          How will the new preschool fee structure benefit different family types?
+          What are the new preschool fees under the government initiative?
         answer: |
-          The new preschool fee structure will align fees with primary school costs, charging $300 per month for dual-income families at government-supported centers, while lower-income families will pay as little as $3 per month.
+          At government-supported centers, preschool fees will be $300 per month for dual-income families and as low as $3 per month for lower-income families.
       - question: |
-          What is the timeline for implementing the new Shared Parental Leave Scheme?
+          What is the complete timeline for implementing family support initiatives?
         answer: |
-          The Shared Parental Leave Scheme will be implemented in two phases: six weeks of shared leave will be available from April 2025, followed by the full 10 weeks of shared leave by April 2026.
+          The initiatives will be implemented in phases: 4-week mandatory paternity leave starts April 2024, Shared Parental Leave begins with 6 weeks in April 2025 expanding to 10 weeks by April 2026, and the Large Families Scheme will be announced in Budget 2025.
       - question: |
-          What are all the new family support initiatives announced in the speech?
+          How will the Shared Parental Leave Scheme work?
         answer: |
-          The new family support initiatives include: affordable preschool fees ($300 for dual-income families), mandatory 4-week paternity leave from April 2024, the 10-week Shared Parental Leave Scheme, and the upcoming Large Families Scheme for families with three or more children.
+          The Shared Parental Leave Scheme will provide parents with 10 weeks of shared leave, implemented in two phases: six weeks from April 2025, expanding to the full 10 weeks by April 2026.
+      - question: |
+          What support will the Large Families Scheme provide?
+        answer: |
+          The Large Families Scheme will support families with three or more children, with specific details to be announced in the 2025 Budget.
+      - question: |
+          What changes are being made to paternity leave?
+        answer: |
+          Paternity leave of four weeks will become mandatory for all eligible fathers starting from April 2024.
 
   - context: |
-      Housing initiatives focus on increasing accessibility and affordability. The government is on track to deliver 100,000 new BTO flats between 2021 and 2025, with 80,000 units expected to be completed by December 2024. A new BTO classification system introduces three categories: Standard flats (widely available), Plus flats (additional subsidies for choicer locations), and Prime flats (highest subsidies for premium locations with stricter resale conditions). The CPF Housing Grant for first-time homebuyers will be enhanced, particularly benefiting lower-income groups. For reference, a four-room Plus flat at Bayshore Vista is priced at $580,000, with various grants and HDB loan options making it affordable for young couples with minimal cash outlay.
+      Housing initiatives include delivering 100,000 new BTO flats between 2021 and 2025, with 80,000 units completed by December 2024. A new classification system introduces Standard, Plus, and Prime categories. Standard flats are widely available, Plus flats offer additional subsidies for choice locations, and Prime flats provide highest subsidies for premium locations with stricter resale conditions. Enhanced CPF Housing Grants target first-time homebuyers, especially lower-income groups. A four-room Plus flat at Bayshore Vista is priced at $580,000.
     questions_and_answers:
       - question: |
-          What are the key features of each category in the new BTO classification system?
+          What are the three categories in the new BTO classification system and their features?
         answer: |
-          The new BTO classification system has three categories: Standard flats which are widely available, Plus flats which offer additional subsidies for choicer locations, and Prime flats which provide the highest subsidies for premium locations but come with stricter resale conditions.
+          The three categories are: Standard flats (widely available), Plus flats (additional subsidies for choice locations), and Prime flats (highest subsidies for premium locations with stricter resale conditions).
       - question: |
-          How many BTO flats will be completed by December 2024, and what is the total target?
+          What is the government's BTO supply target and timeline?
         answer: |
-          HDB expects to complete 80,000 BTO units by December 2024, working towards the total target of delivering 100,000 new flats between 2021 and 2025.
+          The government aims to deliver 100,000 new BTO flats between 2021 and 2025, with 80,000 units to be completed by December 2024.
       - question: |
-          What measures are being implemented to make housing more affordable?
+          How is housing being made more affordable for first-time buyers?
         answer: |
-          Housing affordability measures include: enhanced CPF Housing Grant for first-time buyers (especially lower-income groups), a new three-tier BTO classification system with varying subsidy levels, and financing options through HDB loans to minimize cash outlay.
+          Housing is being made more affordable through enhanced CPF Housing Grants for first-time buyers (especially lower-income groups), the new three-tier BTO classification system with varying subsidy levels, and providing price examples like the $580,000 four-room Plus flat at Bayshore Vista.
+      - question: |
+          What price example was given for new BTO flats?
+        answer: |
+          A four-room Plus flat at Bayshore Vista was given as an example, priced at $580,000.
+      - question: |
+          What are the special conditions for Prime category flats?
+        answer: |
+          Prime category flats come with the highest subsidies for premium locations but are subject to stricter resale conditions.
 
   - context: |
-      Education reforms emphasize inclusivity and diverse pathways. The traditional Gifted Education Programme (GEP) in primary schools will be replaced with school-based programs for high-ability learners, allowing students to pursue their strengths while maintaining peer connections. After-school enrichment modules will provide additional academic opportunities. The new University of the Arts Singapore will offer government-subsidized degree programs for local students. The ITE Progression Award includes two components: a $5,000 Post-Secondary Education Account (PSEA) top-up upon diploma enrollment and a $10,000 CPF top-up upon diploma completion, promoting vocational excellence and continuous education.
+      Education reforms replace the Gifted Education Programme with school-based programs for high-ability learners, allowing students to pursue strengths while maintaining peer connections. Additional after-school enrichment modules will be available. The new University of the Arts Singapore will offer subsidized degree programs. The ITE Progression Award provides $5,000 PSEA top-up upon diploma enrollment and $10,000 CPF top-up upon completion.
     questions_and_answers:
       - question: |
-          What changes are being made to programs for high-ability students?
+          How will the new school-based programs replace the Gifted Education Programme?
         answer: |
-          The traditional Gifted Education Programme (GEP) is being replaced with school-based programs that allow high-ability learners to pursue their strengths while staying connected with peers. This includes additional after-school enrichment modules for further academic development.
+          The new school-based programs will allow high-ability learners to pursue their strengths while staying connected with peers, and will include additional after-school enrichment modules for further academic development.
       - question: |
           What are the key components of the ITE Progression Award?
         answer: |
-          The ITE Progression Award has two key components: a $5,000 Post-Secondary Education Account (PSEA) top-up when enrolling in a diploma program, and a $10,000 CPF top-up upon completing the diploma.
+          The ITE Progression Award includes two components: a $5,000 PSEA top-up upon diploma enrollment and a $10,000 CPF top-up upon diploma completion.
       - question: |
-          How is the government supporting arts education in Singapore?
+          How is Singapore expanding its arts education options?
         answer: |
-          The government is supporting arts education through the establishment of the University of the Arts Singapore, which will offer degree programs with government subsidies for local students.
+          Singapore is establishing the University of the Arts Singapore, which will offer degree programs with government subsidies for local students.
+      - question: |
+          What enrichment opportunities will be available for students?
+        answer: |
+          Students will have access to after-school enrichment modules and school-based programs tailored to their abilities and interests.
+      - question: |
+          What is the total financial support available through the ITE Progression Award?
+        answer: |
+          The total financial support through the ITE Progression Award is $15,000, comprising a $5,000 PSEA top-up and a $10,000 CPF top-up.
 
   - context: |
-      Infrastructure development plans include the Kallang Alive Masterplan, featuring a new 18,000-capacity indoor arena and centralized training facilities for Team Singapore athletes. The Singapore Sports School will relocate from Woodlands to Kallang, creating an integrated hub for student and senior athletes. Waterfront development projects include the NS Square (new National Day Parade venue), Founders' Memorial in Bay East Gardens, and new residential precincts at Nicoll, Kampong Bugis, Tanjong Rhu, Marina South, and Marina East. These developments aim to enhance urban living opportunities while creating meaningful spaces for community engagement and national identity.
+      Infrastructure development includes the Kallang Alive Masterplan with an 18,000-capacity indoor arena and training facilities for Team Singapore athletes. Singapore Sports School relocates to Kallang. Waterfront developments include NS Square for National Day Parades, Founders' Memorial at Bay East Gardens, and new residential precincts at Nicoll, Kampong Bugis, Tanjong Rhu, Marina South, and Marina East.
     questions_and_answers:
       - question: |
           What are the key components of the Kallang Alive Masterplan?
         answer: |
-          The Kallang Alive Masterplan includes a new 18,000-capacity indoor arena, centralized training facilities for Team Singapore athletes, and the relocation of the Singapore Sports School from Woodlands to Kallang to create an integrated sports hub.
+          The Kallang Alive Masterplan includes a new 18,000-capacity indoor arena, centralized training facilities for Team Singapore athletes, and the relocation of Singapore Sports School to Kallang.
       - question: |
-          Which new residential precincts are being developed along the waterfront?
+          Which new residential precincts are being developed?
         answer: |
-          The new waterfront residential precincts being developed are Nicoll, Kampong Bugis, Tanjong Rhu, Marina South, and Marina East.
+          The new residential precincts being developed are Nicoll, Kampong Bugis, Tanjong Rhu, Marina South, and Marina East.
       - question: |
-          What are the major public spaces being developed in the waterfront area?
+          What are the major public spaces in the waterfront development?
         answer: |
-          The major public spaces being developed in the waterfront area include the NS Square, which will be the new venue for National Day Parades, and the Founders' Memorial located in Bay East Gardens.
+          The major public spaces are the NS Square, which will be the new venue for National Day Parades, and the Founders' Memorial located in Bay East Gardens.
+      - question: |
+          How will the Kallang precinct be transformed for sports?
+        answer: |
+          The Kallang precinct will be transformed into a sports hub with an 18,000-capacity indoor arena, training facilities for Team Singapore athletes, and the relocated Singapore Sports School.
+      - question: |
+          What is the significance of the NS Square development?
+        answer: |
+          NS Square will become the new venue for hosting National Day Parades, creating a new focal point for national celebrations along the waterfront.
 
 document_outline: |
-  This document contains comprehensive coverage of Singapore's National Day Rally 2024 policy announcements and initiatives, including economic support, family policies, housing initiatives, education reforms, and infrastructure development plans.
+  Comprehensive coverage of Singapore's National Day Rally 2024 announcements, including PM Lawrence Wong's leadership, economic support, family policies, housing initiatives, education reforms, and infrastructure development.
 
 document:
   repo: "https://github.com/JYeoMJ/IBM-Redhat-InstructLab.git"
-  commit: "insert commit SHA here"
+  commit: "de13896e9719f266b38766ea3719a4e5cc135033"
   patterns:
-    - NDR_2024.md
+    - "knowledge/ndr2024-knowledge/NDR_2024.md"
