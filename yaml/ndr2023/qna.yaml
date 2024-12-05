@@ -128,6 +128,6 @@ document_outline: |
 
 document:
   repo: "https://github.com/JYeoMJ/IBM-Redhat-InstructLab.git"
-  commit: ""
+  commit: "ef083f7ce3eabfe79300f24390b7ae7a45cec721"
   patterns:
     - "knowledge/ndr2024-knowledge/NDR_2024.md"

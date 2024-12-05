@@ -1,0 +1,73 @@
+version: 2
+task_description: "Convert policy information into clear, concise summaries with bullet points and a brief explanation"
+created_by: "JYeoMJ"
+seed_examples:
+  - context: |
+      The SkillsFuture Level-Up Program provides a $4,000 SkillsFuture Credit top-up for Singaporeans aged 40 and above, with training allowance up to $3,000 monthly for 24 months.
+    question: |
+      Summarize this policy in a clear, engaging way.
+    answer: |
+      SkillsFuture Level-Up Program: Quick Guide
+
+      Key Benefits:
+      • $4,000 SkillsFuture Credit top-up
+      • $3,000 monthly training allowance
+      • 24-month duration
+
+      This program helps Singaporeans aged 40 and above upgrade their skills with significant financial support. The total potential benefit is up to $76,000 over two years.
+
+  - context: |
+      Paternity leave becomes mandatory at 4 weeks for eligible fathers from April 2024. The Shared Parental Leave Scheme will provide 10 weeks of shared leave - six weeks from April 2025, expanding to 10 weeks by April 2026.
+    question: |
+      Break down this policy clearly.
+    answer: |
+      New Parental Leave Updates
+
+      Timeline:
+      • April 2024: 4 weeks mandatory paternity leave
+      • April 2025: 6 weeks shared parental leave
+      • April 2026: 10 weeks shared parental leave
+
+      These changes make paternity leave mandatory and introduce a new shared leave system that expands over two years.
+
+  - context: |
+      At government-supported centers, preschool fees will be $300 per month for dual-income families and as low as $3 per month for lower-income families.
+    question: |
+      Summarize the preschool fee changes.
+    answer: |
+      Preschool Fee Structure Update
+
+      Monthly Fees:
+      • Dual-income families: $300
+      • Lower-income families: $3
+      • Applies to government-supported centers
+
+      This new fee structure makes preschool education significantly more affordable, with special support for lower-income families.
+
+  - context: |
+      The BTO classification system introduces Standard, Plus, and Prime categories. Standard flats are widely available, Plus flats offer additional subsidies for choice locations, and Prime flats provide highest subsidies for premium locations with stricter resale conditions.
+    question: |
+      Explain the new BTO system simply.
+    answer: |
+      New BTO Classification System
+
+      Three Categories:
+      • Standard: Basic flats, widely available
+      • Plus: Better locations, extra subsidies
+      • Prime: Premium locations, highest subsidies
+
+      This new system categorizes BTO flats based on location and benefits, with different subsidy levels and conditions for each category.
+
+  - context: |
+      The Kallang Alive Masterplan includes the construction of a new 18,000-capacity indoor arena, centralized training facilities for Team Singapore athletes, and the relocation of the Singapore Sports School to Kallang.
+    question: |
+      Outline the Kallang development plans.
+    answer: |
+      Kallang Alive Masterplan Overview
+
+      Key Developments:
+      • New indoor arena (18,000 capacity)
+      • Centralized athlete training facilities
+      • Singapore Sports School relocation
+
+      This comprehensive development will transform Kallang into Singapore's premier sports hub, bringing together venues, training facilities, and sports education.
