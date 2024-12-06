@@ -19,7 +19,7 @@ Synthethic data-based alignmnet tuning for Large Language Models (LLMs), using t
 
 LAB reduces Instruction Tuning to defining recipes for synthetic data generation.
 
-```merlion
+```mermaid
 graph TD;
   download-->chat
   chat[Chat with the LLM]-->add
